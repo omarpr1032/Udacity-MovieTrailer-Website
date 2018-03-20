@@ -17,4 +17,3 @@ class Movie():
     # Instance method to open the url on the web browser
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
-

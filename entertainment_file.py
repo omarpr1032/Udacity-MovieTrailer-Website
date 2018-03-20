@@ -71,4 +71,3 @@ movies = [toy_story, avatar, deadpool, transformer3, jumanji, blackPanther]
 # Call the open_movies_page instance method passing the movies array argument
 # to open the movies webpage
 fresh_tomatoes.open_movies_page(movies)
-
